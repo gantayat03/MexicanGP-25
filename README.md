@@ -78,7 +78,7 @@ The goal is to "show the work" and explain *how* the data leads to the predictio
 * **Linear Degradation:** Assumes tyre degradation is linear, which is a simplification.
 * **Data Cleaning/Imputation:** The methods used (median fill) are basic and might not perfectly represent a driver's true potential if their data was missing.
 
-## Future Improvements (Optional)
+## Future Improvements
 
 * Train an actual ML model (e.g., Logistic Regression, Gradient Boosting) on historical data to learn optimal feature weights.
 * Incorporate more features (e.g., tyre compound choices, weather forecasts, performance at similar track types, teammate comparisons).
